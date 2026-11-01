@@ -1,0 +1,17 @@
+MELA MARKET – REFERENCE DESIGN UPDATE
+
+This revision changes the homepage composition to follow the user's supplied reference:
+- Wide pale-green promotional hero with title, short description, action buttons, and image.
+- Featured Products section with a five-column desktop grid (responsive on smaller screens).
+- Compact product cards with product image, condition badge, title, price and add-to-cart action.
+- Four service assurance items below the product collections.
+- Removed the dark mobile discovery/location strip and the unverified marketplace tagline from the top announcement bar.
+- Kept product collections, search/navigation, categories, cart, wishlist, seller/admin pages and existing data/auth flows.
+
+The existing ProductCarouselSection remains for the additional collections and retains its horizontal scrolling, controls and touch support.
+
+Verification:
+- This package was edited from the user's uploaded project ZIP.
+- A production build has NOT been run in this environment. Please run `npm run build` before deploying.
+- The hero uses a remote Unsplash image, so internet access is needed for that image to load.
+- No database policies, credentials, authentication rules, or backend API logic were modified in this revision.

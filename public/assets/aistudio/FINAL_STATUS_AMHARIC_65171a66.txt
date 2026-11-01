@@ -1,0 +1,23 @@
+MELA MARKET – የዲዛይን ማስተካከያ
+
+የተደረጉ ለውጦች
+1. የመነሻ ገጽ Hero ክፍል በአረንጓዴ/ነጭ ቅጥ ተዘጋጅቷል።
+2. Featured Products በዴስክቶፕ 5 ካርዶች በአንድ ረድፍ ይታያሉ፤ በትንሽ ስክሪን ይለዋወጣል።
+3. አዲስ/ያገለገለ የምርት ምርጫ በSeller Dashboard የምርት ፎርም ተጨምሯል።
+4. ProductCard ላይ የምርት ሁኔታ ምልክት ይታያል።
+5. የቀድሞው ካርት፣ Wishlist፣ ምርት ዝርዝር፣ የሻጭ ዳሽቦርድ እና የአሁኑ API ፋይሎች ተጠብቀዋል።
+
+ያልተረጋገጡ
+- በዚህ አካባቢ node_modules ስለሌለ የproduction build ማስኬድ አልተቻለም።
+- የcondition መረጃ በSupabase ላይ እንዲቀመጥ products table ውስጥ condition column እና API mapping መኖራቸው ያስፈልጋል።
+- የHero ምስል ውጫዊ Unsplash URL ነው።
+- የሻጭ ምዝገባ አሁንም የshop profile ዝርዝሮችን ይጠይቃል፤ ይህን በዳታቤዝ ሞዴል ሳይቀየር በደህና ማስወገድ አይቻልም።
+
+ከመጫን በፊት:
+1. ZIP አውርድና አውጣ።
+2. ፕሮጀክቱን በTerminal ክፈት።
+3. npm install --legacy-peer-deps
+4. npm run build
+5. Build ከተሳካ ብቻ ወደ Vercel deploy አድርግ።
+
+የSupabase keys፣ authentication rules፣ RLS policies ወይም backend permissions በዚህ ማስተካከያ አልተቀየሩም።
