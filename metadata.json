@@ -1,6 +1,0 @@
-{
-  "name": "MELA MARKET — Premium E-Commerce Platform",
-  "description": "A complete, production-grade full-stack online marketplace with product catalog, cart, checkout, order tracking, admin dashboard, and Supabase integration.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
