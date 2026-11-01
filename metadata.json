@@ -1,0 +1,8 @@
+{
+  "name": "Mela Market — Ethiopian E-Commerce & Admin Platform",
+  "description": "Bilingual Ethiopian marketplace featuring mandatory seller product listings, real Supabase Storage image uploads, customer checkout, and role-protected administrator dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
