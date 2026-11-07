@@ -1,6 +1,0 @@
-{
-  "name": "Mela Market – መላ ገበያ",
-  "description": "Ethiopian Online Marketplace for New & Used Products with Amharic, English & Tigrinya support, location filtering, camera capture, seller and admin management.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
