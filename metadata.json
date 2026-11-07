@@ -1,9 +1,0 @@
-{
-  "name": "Mela Market",
-  "description": "Ethiopia's trusted multi-language marketplace for new and used goods with verified sellers, camera capture, and secure listings.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
