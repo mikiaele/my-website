@@ -1,6 +1,0 @@
-{
-  "name": "Mela Market",
-  "description": "Ethiopia's modern online marketplace for new and used products. Available in Amharic, English, and Tigrinya.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
