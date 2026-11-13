@@ -1,0 +1,6 @@
+{
+  "name": "Mela Market",
+  "description": "Ethiopia's trilingual online marketplace connecting buyers and verified sellers across all regions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
